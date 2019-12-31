@@ -1,0 +1,9 @@
+[General]
+JIRA_URL=http://localhost:8080
+CONFLUENCE_URL=http://localhost:8080/wiki
+JIRA_USERNAME=manolo
+JIRA_PASSWORD=password
+JIRA_DEFAULT_SEARCH=text ~ "password"
+
+# If defined, search window time will be used so, it will be tracked and skipped issues already tracked
+SEARCHWINDOW_FILE=searchwindow.json # If defined, search window time will be used
