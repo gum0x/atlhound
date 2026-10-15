@@ -1,5 +1,7 @@
 # althound 
-
+> [!WARNING]
+> Project Archived
+   
 althound is a python3 script that search within Jira/Confluence projects and issues for password and other keys. It should be useful for both red and blue teams. 
 
 Tool is designed to be used as a manual tool that is launched manually by a supervisor as it returns comments with password and accounts from users. 
